@@ -1,5 +1,6 @@
 require "randomly_generated/version"
 require "randomly_generated/object"
+require "randomly_generated/integer"
 
 
 module RandomlyGenerated
